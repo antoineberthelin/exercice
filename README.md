@@ -1,1 +1,1 @@
-Exercice
+Exercices javascript && react
